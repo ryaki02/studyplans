@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Study Plans</string>
+    <string name="Name">Name</string>
+    <string name="Study">Study</string>
+    <string name="Button">Button</string>
+    <string name="Name2">Name</string>
+    <string name="CriarConta">Novo aqui? <u><b>Crie uma conta.</b></u> </string>
+    <string name="Todo">TODO</string>
+    <string name="acessar">Acessar</string>
+    <string name="Plans">Plans</string>
+    <string name="Study2">Study</string>
+    <string name="Entrar">Entrar</string>
+    <string name="senha1">Senha</string>
+    <string name="e_mail1">E-mail</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="nome">Nome</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="senha">Senha</string>
+    <string name="_18_apresenta_o_pdm">18 - Apresentação PDM</string>
+    <string name="agende_um_evento">Agende um evento</string>
+</resources>
